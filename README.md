@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, je suis nRayen</h1>
 <h3 align="center">Etudiant en BTS SIO à l'EFREI Paris</h3>
 
-- 🔭 Je travaille actuellement sur **une application Java**
+- 🔭 Je travaille actuellement sur **NextJS**
 
 - 🌱 J'apprends actuellement le **développement d'applications web et mobiles**
 
